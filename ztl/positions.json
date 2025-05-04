@@ -1,0 +1,14 @@
+// to make things easier, the format for this is CENTER > A80 > CLT TRACON > UNRESTRICTED TRACONS
+// adding on: please only set custom colors for the AREA SPECIFIC SECTORS (those are used the most) so 43, 32, 50, 20, 10, 03, 37
+{
+    "positions": {
+        "01": { "callsign": "Atlanta Center", "frequency": "135.175", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "02": { "callsign": "Atlanta Center", "frequency": "126.825", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "03": { "callsign": "Atlanta Center", "frequency": "128.725", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#800080" }]},
+        "04": { "callsign": "Atlanta Center", "frequency": "134.950", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "05": { "callsign": "Atlanta Center", "frequency": "132.050", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "06": { "callsign": "Atlanta Center", "frequency": "133.175", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "08": { "callsign": "Atlanta Center", "frequency": "125.875", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "09": { "callsign": "Atlanta Center", "frequency": "120.450", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "10": { "callsign": "Atlanta Center", "frequency": "125.575", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#ffff00" }]},
+        "11": { "callsign": "Atlanta Center", "frequency": "128.025", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
