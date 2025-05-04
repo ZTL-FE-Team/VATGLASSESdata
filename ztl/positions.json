@@ -1,5 +1,5 @@
 // to make things easier, the format for this is CENTER > A80 > CLT TRACON > UNRESTRICTED TRACONS
-// adding on: please only set custom colors for the AREA SPECIFIC SECTORS (those are used the most) so 43, 32, 50, 20, 10, 03, 37
+// adding on: please only set custom colors for the AREA SPECIFIC SECTORS (those are used the most) so 43, 32, 50, 20, 10, 03, 37 (in that order according to the HEX color on the IDS)
 {
     "positions": {
         "01": { "callsign": "Atlanta Center", "frequency": "135.175", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
