@@ -12,3 +12,4 @@
         "09": { "callsign": "Atlanta Center", "frequency": "120.450", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
         "10": { "callsign": "Atlanta Center", "frequency": "125.575", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#ffff00" }]},
         "11": { "callsign": "Atlanta Center", "frequency": "128.025", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "12": { "callsign": "Atlanta Center", "frequency": "127.300", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
