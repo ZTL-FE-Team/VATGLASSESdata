@@ -48,3 +48,18 @@
         "48": { "callsign": "Atlanta Center", "frequency": "125.150", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
         "49": { "callsign": "Atlanta Center", "frequency": "121.350", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
         "50": { "callsign": "Atlanta Center", "frequency": "124.375", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+
+        // then all the approaches, should note that all these are departure to keep consistant with A80s weird DEP cert first then TAR cert
+        
+        "A80": { "callsign": "Atlanta Departure", "frequency": "133.475", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "CLT": { "callsign": "Charlotte Departure", "frequency": "120.500", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "AGS": { "callsign": "Augusta Departure", "frequency": "119.150", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "AVL": { "callsign": "Asheville Departure", "frequency": "124.650", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "BHM": { "callsign": "Birmingham Departure", "frequency": "123.800", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "CHA": { "callsign": "Chattanooga Departure", "frequency": "125.100", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "GSO": { "callsign": "Greensboro Departure", "frequency": "124.350", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "GSP": { "callsign": "Greer Departure", "frequency": "118.800", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "MGM": { "callsign": "Montgomery Departure", "frequency": "124.000", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "TRI": { "callsign": "Tri-Cities Departure", "frequency": "134.425", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "TYS": { "callsign": "Konxville Departure", "frequency": "123.900", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+
